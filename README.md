@@ -1,2 +1,2 @@
-# Adventure-Drivers
-It is a 2d car racing game made in Python using tkinter gui library. Included are all the assets and python code to run the game.
+# Adventure Drivers
+## Adventure Drivers is a 2d car racing game made using the tkinter gui library of Python. Included in the repo are all the assets and code for the game.
